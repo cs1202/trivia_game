@@ -1,7 +1,7 @@
 
 
 var audioElement = document.createElement("audio");
-audioElement.setAttribute("src", "Assets/pixar.mp3");
+audioElement.setAttribute("src", "assets/pixar.mp3");
 var triviaQuestions = [{
 	question: "In what year was Pixar founded?",
 	answerList: ["1979", "1986", "1995", "2000"],
